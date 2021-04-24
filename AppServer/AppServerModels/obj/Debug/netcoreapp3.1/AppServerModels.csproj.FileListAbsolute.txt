@@ -1,0 +1,35 @@
+D:\MyDemo\AppServer\AppServerModels\bin\Debug\netcoreapp3.1\AppServerModels.deps.json
+D:\MyDemo\AppServer\AppServerModels\bin\Debug\netcoreapp3.1\AppServerModels.runtimeconfig.json
+D:\MyDemo\AppServer\AppServerModels\bin\Debug\netcoreapp3.1\AppServerModels.runtimeconfig.dev.json
+D:\MyDemo\AppServer\AppServerModels\bin\Debug\netcoreapp3.1\AppServerModels.dll
+D:\MyDemo\AppServer\AppServerModels\bin\Debug\netcoreapp3.1\AppServerModels.pdb
+D:\MyDemo\AppServer\AppServerModels\obj\Debug\netcoreapp3.1\AppServerModels.AssemblyInfoInputs.cache
+D:\MyDemo\AppServer\AppServerModels\obj\Debug\netcoreapp3.1\AppServerModels.AssemblyInfo.cs
+D:\MyDemo\AppServer\AppServerModels\obj\Debug\netcoreapp3.1\AppServerModels.csproj.CoreCompileInputs.cache
+D:\MyDemo\AppServer\AppServerModels\obj\Debug\netcoreapp3.1\AppServerModels.dll
+D:\MyDemo\AppServer\AppServerModels\obj\Debug\netcoreapp3.1\AppServerModels.pdb
+D:\MyDemo\AppServer\AppServerModels\obj\Debug\netcoreapp3.1\AppServerModels.genruntimeconfig.cache
+C:\Users\Fat ning\Desktop\MyDemo\AppServer\AppServerModels\bin\Debug\netcoreapp3.1\AppServerModels.deps.json
+C:\Users\Fat ning\Desktop\MyDemo\AppServer\AppServerModels\bin\Debug\netcoreapp3.1\AppServerModels.runtimeconfig.json
+C:\Users\Fat ning\Desktop\MyDemo\AppServer\AppServerModels\bin\Debug\netcoreapp3.1\AppServerModels.runtimeconfig.dev.json
+C:\Users\Fat ning\Desktop\MyDemo\AppServer\AppServerModels\bin\Debug\netcoreapp3.1\AppServerModels.dll
+C:\Users\Fat ning\Desktop\MyDemo\AppServer\AppServerModels\bin\Debug\netcoreapp3.1\AppServerModels.pdb
+C:\Users\Fat ning\Desktop\MyDemo\AppServer\AppServerModels\obj\Debug\netcoreapp3.1\AppServerModels.AssemblyInfoInputs.cache
+C:\Users\Fat ning\Desktop\MyDemo\AppServer\AppServerModels\obj\Debug\netcoreapp3.1\AppServerModels.AssemblyInfo.cs
+C:\Users\Fat ning\Desktop\MyDemo\AppServer\AppServerModels\obj\Debug\netcoreapp3.1\AppServerModels.csproj.CoreCompileInputs.cache
+C:\Users\Fat ning\Desktop\MyDemo\AppServer\AppServerModels\obj\Debug\netcoreapp3.1\AppServerModels.dll
+C:\Users\Fat ning\Desktop\MyDemo\AppServer\AppServerModels\obj\Debug\netcoreapp3.1\AppServerModels.pdb
+C:\Users\Fat ning\Desktop\MyDemo\AppServer\AppServerModels\obj\Debug\netcoreapp3.1\AppServerModels.genruntimeconfig.cache
+C:\Users\Fat ning\Desktop\MyDemo\AppServer\AppServerModels\obj\Debug\netcoreapp3.1\AppServerModels.csprojAssemblyReference.cache
+C:\Users\Fat ning\Desktop\MyDemo\waibibapo\AppServer\AppServerModels\bin\Debug\netcoreapp3.1\AppServerModels.deps.json
+C:\Users\Fat ning\Desktop\MyDemo\waibibapo\AppServer\AppServerModels\bin\Debug\netcoreapp3.1\AppServerModels.runtimeconfig.json
+C:\Users\Fat ning\Desktop\MyDemo\waibibapo\AppServer\AppServerModels\bin\Debug\netcoreapp3.1\AppServerModels.runtimeconfig.dev.json
+C:\Users\Fat ning\Desktop\MyDemo\waibibapo\AppServer\AppServerModels\bin\Debug\netcoreapp3.1\AppServerModels.dll
+C:\Users\Fat ning\Desktop\MyDemo\waibibapo\AppServer\AppServerModels\bin\Debug\netcoreapp3.1\AppServerModels.pdb
+C:\Users\Fat ning\Desktop\MyDemo\waibibapo\AppServer\AppServerModels\obj\Debug\netcoreapp3.1\AppServerModels.csprojAssemblyReference.cache
+C:\Users\Fat ning\Desktop\MyDemo\waibibapo\AppServer\AppServerModels\obj\Debug\netcoreapp3.1\AppServerModels.AssemblyInfoInputs.cache
+C:\Users\Fat ning\Desktop\MyDemo\waibibapo\AppServer\AppServerModels\obj\Debug\netcoreapp3.1\AppServerModels.AssemblyInfo.cs
+C:\Users\Fat ning\Desktop\MyDemo\waibibapo\AppServer\AppServerModels\obj\Debug\netcoreapp3.1\AppServerModels.csproj.CoreCompileInputs.cache
+C:\Users\Fat ning\Desktop\MyDemo\waibibapo\AppServer\AppServerModels\obj\Debug\netcoreapp3.1\AppServerModels.dll
+C:\Users\Fat ning\Desktop\MyDemo\waibibapo\AppServer\AppServerModels\obj\Debug\netcoreapp3.1\AppServerModels.pdb
+C:\Users\Fat ning\Desktop\MyDemo\waibibapo\AppServer\AppServerModels\obj\Debug\netcoreapp3.1\AppServerModels.genruntimeconfig.cache

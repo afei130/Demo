@@ -1,0 +1,36 @@
+D:\MyDemo\AppServer\Expansion\obj\Debug\netcoreapp3.1\Expansion.csprojAssemblyReference.cache
+D:\MyDemo\AppServer\Expansion\obj\Debug\netcoreapp3.1\Expansion.AssemblyInfoInputs.cache
+D:\MyDemo\AppServer\Expansion\obj\Debug\netcoreapp3.1\Expansion.AssemblyInfo.cs
+D:\MyDemo\AppServer\Expansion\obj\Debug\netcoreapp3.1\Expansion.csproj.CoreCompileInputs.cache
+D:\MyDemo\AppServer\Expansion\bin\Debug\netcoreapp3.1\Expansion.deps.json
+D:\MyDemo\AppServer\Expansion\bin\Debug\netcoreapp3.1\Expansion.dll
+D:\MyDemo\AppServer\Expansion\bin\Debug\netcoreapp3.1\Expansion.pdb
+D:\MyDemo\AppServer\Expansion\bin\Debug\netcoreapp3.1\AppServerModels.dll
+D:\MyDemo\AppServer\Expansion\bin\Debug\netcoreapp3.1\AppServerModels.pdb
+D:\MyDemo\AppServer\Expansion\obj\Debug\netcoreapp3.1\Expansion.csproj.CopyComplete
+D:\MyDemo\AppServer\Expansion\obj\Debug\netcoreapp3.1\Expansion.dll
+D:\MyDemo\AppServer\Expansion\obj\Debug\netcoreapp3.1\Expansion.pdb
+C:\Users\Fat ning\Desktop\MyDemo\AppServer\Expansion\obj\Debug\netcoreapp3.1\Expansion.csprojAssemblyReference.cache
+C:\Users\Fat ning\Desktop\MyDemo\AppServer\Expansion\obj\Debug\netcoreapp3.1\Expansion.AssemblyInfoInputs.cache
+C:\Users\Fat ning\Desktop\MyDemo\AppServer\Expansion\obj\Debug\netcoreapp3.1\Expansion.AssemblyInfo.cs
+C:\Users\Fat ning\Desktop\MyDemo\AppServer\Expansion\obj\Debug\netcoreapp3.1\Expansion.csproj.CoreCompileInputs.cache
+C:\Users\Fat ning\Desktop\MyDemo\AppServer\Expansion\bin\Debug\netcoreapp3.1\Expansion.deps.json
+C:\Users\Fat ning\Desktop\MyDemo\AppServer\Expansion\bin\Debug\netcoreapp3.1\Expansion.dll
+C:\Users\Fat ning\Desktop\MyDemo\AppServer\Expansion\bin\Debug\netcoreapp3.1\Expansion.pdb
+C:\Users\Fat ning\Desktop\MyDemo\AppServer\Expansion\bin\Debug\netcoreapp3.1\AppServerModels.dll
+C:\Users\Fat ning\Desktop\MyDemo\AppServer\Expansion\bin\Debug\netcoreapp3.1\AppServerModels.pdb
+C:\Users\Fat ning\Desktop\MyDemo\AppServer\Expansion\obj\Debug\netcoreapp3.1\Expansion.csproj.CopyComplete
+C:\Users\Fat ning\Desktop\MyDemo\AppServer\Expansion\obj\Debug\netcoreapp3.1\Expansion.dll
+C:\Users\Fat ning\Desktop\MyDemo\AppServer\Expansion\obj\Debug\netcoreapp3.1\Expansion.pdb
+C:\Users\Fat ning\Desktop\MyDemo\waibibapo\AppServer\Expansion\bin\Debug\netcoreapp3.1\Expansion.deps.json
+C:\Users\Fat ning\Desktop\MyDemo\waibibapo\AppServer\Expansion\bin\Debug\netcoreapp3.1\Expansion.dll
+C:\Users\Fat ning\Desktop\MyDemo\waibibapo\AppServer\Expansion\bin\Debug\netcoreapp3.1\Expansion.pdb
+C:\Users\Fat ning\Desktop\MyDemo\waibibapo\AppServer\Expansion\bin\Debug\netcoreapp3.1\AppServerModels.dll
+C:\Users\Fat ning\Desktop\MyDemo\waibibapo\AppServer\Expansion\bin\Debug\netcoreapp3.1\AppServerModels.pdb
+C:\Users\Fat ning\Desktop\MyDemo\waibibapo\AppServer\Expansion\obj\Debug\netcoreapp3.1\Expansion.csprojAssemblyReference.cache
+C:\Users\Fat ning\Desktop\MyDemo\waibibapo\AppServer\Expansion\obj\Debug\netcoreapp3.1\Expansion.AssemblyInfoInputs.cache
+C:\Users\Fat ning\Desktop\MyDemo\waibibapo\AppServer\Expansion\obj\Debug\netcoreapp3.1\Expansion.AssemblyInfo.cs
+C:\Users\Fat ning\Desktop\MyDemo\waibibapo\AppServer\Expansion\obj\Debug\netcoreapp3.1\Expansion.csproj.CoreCompileInputs.cache
+C:\Users\Fat ning\Desktop\MyDemo\waibibapo\AppServer\Expansion\obj\Debug\netcoreapp3.1\Expansion.csproj.CopyComplete
+C:\Users\Fat ning\Desktop\MyDemo\waibibapo\AppServer\Expansion\obj\Debug\netcoreapp3.1\Expansion.dll
+C:\Users\Fat ning\Desktop\MyDemo\waibibapo\AppServer\Expansion\obj\Debug\netcoreapp3.1\Expansion.pdb
